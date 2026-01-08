@@ -34,3 +34,34 @@ google-services.json
 
 # Android Profiling
 *.hprof
+https://github.com/ajaysinghmmm2425-gif/ajay.wiki.git
+ajay
+ajay@123
+run
+-a
+-b
+-c
+-d
+-e
+-f
+-g
+-h
+-i
+-j
+-k
+-l
+-m
+-n
+-o
+-p
+-q
+-r
+-s
+-t
+-u
+-v
+-w
+-x
+-y
+-z
+styl
